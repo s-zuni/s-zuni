@@ -1,7 +1,4 @@
-<!-- 헤더 배너 (화이트 텍스트 & 모던 딥 네이비 그라데이션) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:001F3F,100:0A2540&text=Lee%20Seung-jun&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=40&desc=Product%20Manager%20%7C%20Service%20Planner&descAlign=50&descAlignY=65&descColor=BAC7D5" width="100%" />
-</div>
+![자기소개헤더](https://capsule-render.vercel.app/api?type=transparent&height=300&color=timeGradient&reversal=false&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EC%9D%B4%EC%8A%B9%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4.&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 <div align="center">
   <!-- SNS 및 연락처 버튼 -->
@@ -32,7 +29,7 @@
 
 ## 🚀 Projects
 
-### 1. 📚 북콕 (BOOKOK)
+### 1. 📚 북콕 (BOOKOK) `2026.01 - 현재`
 > **어린이 독서 습관 형성을 위한 독서 기록 플랫폼**
 
 * **상태**: iOS App Store 출시 완료 & 서비스 운영
@@ -43,7 +40,7 @@
 
 ---
 
-### 2. 🩺 weganda (위간다)
+### 2. 🩺 weganda (우간다)
 > **교대근무 간호사를 위한 맞춤형 라이프스타일 & 스케줄 플랫폼**
 
 * **상태**: MVP 기획 및 모바일 서비스 아키텍처 설계
@@ -54,7 +51,7 @@
 
 ---
 
-### 3. 🔮 MBTIJU (엠비티아이주)
+### 3. 🔮 MBTIJU (엠비티아이주) '2026.03 - 현재`
 > **사주명리학과 MBTI 성향 분석을 결합한 인터랙티브 운세 서비스**
 
 * **링크**: [mbtiju.com](https://mbtiju.com)
@@ -66,7 +63,38 @@
 <br/>
 
 ---
+## 💼 Experience & Leadership
 
+### 🏆 Leadership (실천력 & 리더십)
+* **KOICA 청년중기봉사단 | 캄보디아 컴퓨터교육 팀장** `2024.07 - 2024.12`
+  - $8,700(약 1,000만 원) 규모의 프로젝트 기금 유치 및 현지 디지털 교육 인프라 '미디어 꿈터' 구축 완수
+  - 3명의 팀원을 이끌며 현지 맞춤형 ICT 커리큘럼 기획·운영, 2,500여 명 수혜 환경 조성
+* **경희대학교 자율전공학부 | 학생회장** `2020.01 - 2021.02`
+  - 코로나19 팬데믹 상황 속에서 비대면 학생회 조직 운영 및 새로운 소통 체계 고안
+  - 신뢰 중심의 커뮤니케이션과 조직 내 갈등 조율을 통해 위기 상황 리더십 발휘
+
+<br/>
+
+### 🌐 Career (다양한 경력)
+* **경희대학교 산학협력단 아동간호학교실 | KOICA YP (청년인턴)** `2025.02 - 2025.08`
+  - '키르기즈공화국 간호교육 선진화 사업' ODA 프로젝트 실무 및 예산·행정 총괄 지원
+  - 국고 보조금 집행 증빙 및 재무적 투명성 확보, 사업 홍보 SNS 운영 및 카드뉴스 등 대외 콘텐츠 제작
+* **농수산물 유통 스타트업 '인코스' | MD & CS 오퍼레이션** `2023.11 - 2024.03`
+  - 디지털 격차를 겪는 전통 농가를 위한 온라인 판로 개척 및 오픈마켓 상세페이지 기획 전담
+  - 일일 정산 및 투명한 거래 내역 도입으로 농가 신뢰 구축, 비효율적 CS 매뉴얼 개선을 통한 응대 시간 단축
+* **공공어린이도서관 | 행정 및 장서 관리 지원** `2년`
+  - 도서관 관리 프로그램(KOLAS) 활용 및 데이터(Excel) 분류 체계 최적화로 업무 효율화
+  - 수천 명의 영유아 학부모 접점 관찰을 통해 독서 플랫폼(북콕)의 초기 가설 수립
+
+<br/>
+
+---
+
+## 💡 Core Competencies
+* **목적 중심의 커뮤니케이션**:  "우리가 해결하려는 본질적 목적"으로 타협점을 찾고 팀의 신뢰를 형성합니다.
+* **현장 기반 문제 해결력 (User-Centric)**:  현장 이해관계자(학부모, 간호사 등)의 숨은 불안과 니즈를 파고들어 시스템으로 풀어냅니다.
+* **실행력과 책임감**: 예산 확보, 언어 장벽, 행정 지연 등 어떤 돌발 변수 속에서도 대안을 찾아내어 프로젝트를 끝까지 완수합니다.
+---
 ## 🛠 Skills & Tools
 
 | 분류 | 상세 스택 및 툴 |
