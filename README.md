@@ -1,4 +1,4 @@
-![자기소개헤더](https://capsule-render.vercel.app/api?type=transparent&height=300&color=timeGradient&reversal=false&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EC%9D%B4%EC%8A%B9%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4.&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+### 🖐️HI, I'M SEUNGJUN
 
 <div align="center">
   <!-- SNS 및 연락처 버튼 -->
@@ -78,15 +78,14 @@
 <br/>
 
 ### 🌐 Career (다양한 경력)
+* **스즈니(SZUNI) | 북콕, 우간다, MBTIJU 서비스 운영** | 현재
+
 * **경희대학교 산학협력단 아동간호학교실 | KOICA YP (청년인턴)** `2025.02 - 2025.08`
-  - '키르기즈공화국 간호교육 선진화 사업' ODA 프로젝트 실무 및 예산·행정 총괄 지원
-  - 국고 보조금 집행 증빙 및 재무적 투명성 확보, 사업 홍보 SNS 운영 및 카드뉴스 등 대외 콘텐츠 제작
+
 * **농수산물 유통 스타트업 '인코스' | MD & CS 오퍼레이션** `2023.11 - 2024.03`
-  - 디지털 격차를 겪는 전통 농가를 위한 온라인 판로 개척 및 오픈마켓 상세페이지 기획 전담
-  - 일일 정산 및 투명한 거래 내역 도입으로 농가 신뢰 구축, 비효율적 CS 매뉴얼 개선을 통한 응대 시간 단축
+
 * **공공어린이도서관 | 행정 및 장서 관리 지원** `2년`
-  - 도서관 관리 프로그램(KOLAS) 활용 및 데이터(Excel) 분류 체계 최적화로 업무 효율화
-  - 수천 명의 영유아 학부모 접점 관찰을 통해 독서 플랫폼(북콕)의 초기 가설 수립
+ 
 
 <br/>
 
